@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-Its a morkown file this repository. 
+Its a markown file this repository. 
